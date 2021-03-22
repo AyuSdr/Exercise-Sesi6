@@ -11,6 +11,6 @@ Question Looping
 
 3. Sebutkan 3 looping yang dapat digunakan dan fungsi masing-masing !
    Jawab : 
-   - looping For : Gunanya untuk mengulang satu pernyataan sebanyak yang kita mau. 
+   - Looping For : Gunanya untuk mengulang satu pernyataan sebanyak yang kita mau. 
    - Looping While : Hampir sama dengan For, namun dalam while sistemnya hampir sama juga dengan If.
    - Do While : Merupakan statement pengulangan yang biasa digunakan untuk membuat menu dalam program.
